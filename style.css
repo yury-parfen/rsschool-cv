@@ -1,3 +1,33 @@
 body {
-    
+  display: flex;
+  justify-content: center;
+  font-family: "Arial", sans-serif;
+}
+
+main {
+  max-width: 1024px;
+  padding: 20px;
+  line-height: 20px;
+  background-color: gainsboro;
+}
+
+article {
+  display: flex;
+}
+
+img {
+  align-self: flex-start;
+  margin-top: 20px;
+}
+h1 {
+  text-align: center;
+  line-height: 40px;
+}
+
+li {
+    margin: 5px;
+}
+
+.italic {
+    font-style: italic;
 }
