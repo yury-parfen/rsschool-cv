@@ -15,4 +15,4 @@
    * Belarusian National Technical University (Unfinished, 
      4 courses)
    * HTML Academy
-8. English Level A1
+   * RS School
